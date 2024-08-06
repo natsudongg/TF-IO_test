@@ -8,4 +8,6 @@ namespace TF_IO
     bool ReadSTL(char* filename);
 
     bool ReadOFF(char* filename);
+
+    bool ReadBDF(char* filename);
 }
